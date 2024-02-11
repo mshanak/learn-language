@@ -1,0 +1,350 @@
+[
+ {
+   "de": "Guten Morgen    ",
+   "ar": "صباح الخير"
+ },
+ {
+   "de": " Gute Nacht   ",
+   "ar": "ليلة سعيدة"
+ },
+ {
+   "de": " Guten Abend   ",
+   "ar": "مساء الخير"
+ },
+ {
+   "de": " Auf Wiedersehen  ",
+   "ar": "نراكم لاحقآ."
+ },
+ {
+   "de": " Tag / Hallo / Servus ",
+   "ar": "سلام"
+ },
+ {
+   "de": " Tschüs / Tschau  ",
+   "ar": "الى اللقاء"
+ },
+ {
+   "de": " Grüß dich / Grüß Gott! ",
+   "ar": "سلام"
+ },
+ {
+   "de": " Bis später ",
+   "ar": "اراك لاحقآ."
+ },
+ {
+   "de": " Gehen wir! ",
+   "ar": "دعنا نذهب"
+ },
+ {
+   "de": " Bitte   ",
+   "ar": "لطفا"
+ },
+ {
+   "de": " Bis bald   ",
+   "ar": "اراك قريبآ."
+ },
+ {
+   "de": " Danke schön / Danke sehr  ",
+   "ar": "شكرآ , شكرآ جزيلآ"
+ },
+ {
+   "de": " Bis Morgen  ",
+   "ar": "اراك غدآ."
+ },
+ {
+   "de": " Es tut mir leid.",
+   "ar": "انا اسف ، متأسف"
+ },
+ {
+   "de": " Bitte schön ",
+   "ar": "تفضل"
+ },
+ {
+   "de": " Verzeihung  ",
+   "ar": "المعذرة!"
+ },
+ {
+   "de": " Entschuldigen Sie  ",
+   "ar": "اعذرني , المعذرة"
+ },
+ {
+   "de": " Wie geht es Ihnen? ",
+   "ar": "كيف حالك؟ بصيغة المحترم"
+ },
+ {
+   "de": " Wie geht’s?   ",
+   "ar": "كيف حالك؟ بصيغة عادية"
+ },
+ {
+   "de": " Schlecht / Nicht Gut  ",
+   "ar": "سيء , لست بحال جيد"
+ },
+ {
+   "de": " Sehr Gut / So lala ",
+   "ar": "جيد جدآ , نص ونص"
+ },
+ {
+   "de": " Ja / Nein  ",
+   "ar": "نعم ـ لا"
+ },
+ {
+   "de": " Es geht  ",
+   "ar": "ماشي الوضع"
+ },
+ {
+   "de": " Wie heißt du? ",
+   "ar": "ماهو اسمك؟ بصيغة عادية"
+ },
+ {
+   "de": " Wie heißen Sie? ",
+   "ar": "ماهو اسمك بصيغة المحترم."
+ },
+ {
+   "de": " Es freut mich.  ",
+   "ar": "تشرفنا"
+ },
+ {
+   "de": " Ich heiße  …",
+   "ar": "اسمي هو…"
+ },
+ {
+   "de": " Herr / Frau / Fräulein  ",
+   "ar": "السيد , السيدة , الأنسة"
+ },
+ {
+   "de": " Gleichfalls.   ",
+   "ar": "ولك ايضآ. بالمثل."
+ },
+ {
+   "de": " Woher kommst du?  ",
+   "ar": "من اين انت؟"
+ },
+ {
+   "de": " Woher kommen Sie?  ",
+   "ar": "من اين انت؟ بصيغة الاحترام"
+ },
+ {
+   "de": " Wo wohnen Sie? ",
+   "ar": "اين تسكن؟ بصيغة المحترم"
+ },
+ {
+   "de": " Ich komme aus  …",
+   "ar": "انا من"
+ },
+ {
+   "de": " Ich wohne in  …",
+   "ar": "انا اسكن في"
+ },
+ {
+   "de": " Wo wohnst du?   ",
+   "ar": "اين تسكن؟"
+ },
+ {
+   "de": " Wie alt bist du?  ",
+   "ar": "كم هو عمرك؟"
+ },
+ {
+   "de": " Wie alt sind Sie?  ",
+   "ar": "كم هو عمرك؟ بصيغة المحترم"
+ },
+ {
+   "de": " Sprechen Sie deutsch?",
+   "ar": "هل تتحدث اللغة الالمانية؟"
+ },
+ {
+   "de": " Ich bin         Jahre alt. ",
+   "ar": "انا عمري .. سنة."
+ },
+ {
+   "de": " Ich spreche  …",
+   "ar": "انا اتحدث .."
+ },
+ {
+   "de": " Sprichst du englisch? ",
+   "ar": "هل تتحدث اللغة الانجليزية؟"
+ },
+ {
+   "de": " Verstehen Sie? / Verstehst du?  ",
+   "ar": "هل تفهمني؟"
+ },
+ {
+   "de": " Ich spreche kein  …",
+   "ar": "انا لا اتحدث…"
+ },
+ {
+   "de": " Ich verstehe nicht. ",
+   "ar": "انا الا افهم"
+ },
+ {
+   "de": " Ich verstehe. ",
+   "ar": "انا افهم"
+ },
+ {
+   "de": " Ich weiß nicht. ",
+   "ar": "انا لا اعرف"
+ },
+ {
+   "de": " Ich weiß.",
+   "ar": "انا اعرف"
+ },
+ {
+   "de": " Können Sie mir helfen? ",
+   "ar": "هل يمكنك مساعدتي؟ بصيغة المحترم."
+ },
+ {
+   "de": " Kannst du mir helfen? ",
+   "ar": "هل يمكنك مساعدتي؟"
+ },
+ {
+   "de": " Kann ich Ihnen helfen? ",
+   "ar": "هل يمكنني مساعدتك؟"
+ },
+ {
+   "de": " Natürlich / Gerne ",
+   "ar": "نعم , اكيد , بالطبع"
+ },
+ {
+   "de": " Wie bitte? ",
+   "ar": "ماذا؟ ماذا تقصد؟"
+ },
+ {
+   "de": " Kann ich dir helfen? ",
+   "ar": "هل يمكنني مساعدتك؟"
+ },
+ {
+   "de": " Wo ist / Wo sind … ?",
+   "ar": "اين ؟ اين هم؟"
+ },
+ {
+   "de": " Wie heißt      auf deutsch?",
+   "ar": "ماذا يدعى … بالالماني؟"
+ },
+ {
+   "de": " Was ist los? ",
+   "ar": "ماذا يحدث؟"
+ },
+ {
+   "de": " Es gibt …",
+   "ar": "يوجد هناك…."
+ },
+ {
+   "de": " Das ist mir egal.  ",
+   "ar": "لا يهمني"
+ },
+ {
+   "de": " Das macht nichts.  ",
+   "ar": "ليس مهم."
+ },
+ {
+   "de": " Ich habe es vergessen.  ",
+   "ar": "لقد نسيت هذا."
+ },
+ {
+   "de": " Keine Angst!   ",
+   "ar": "لا تخف"
+ },
+ {
+   "de": " Ich habe Hunger / Durst.  ",
+   "ar": "اشعر بالجوع , العطش."
+ },
+ {
+   "de": " Jetzt muss ich gehen.  ",
+   "ar": "يجب علي ان اذهب الأن."
+ },
+ {
+   "de": " Ich habe Langeweile.  ",
+   "ar": "اشعر بالممل."
+ },
+ {
+   "de": " Ich bin krank / müde.  ",
+   "ar": "انا مريض , متعب"
+ },
+ {
+   "de": " Alles ist in Ordnung.  ",
+   "ar": "كل شيء تمام."
+ },
+ {
+   "de": " Ich möchte / Ich hätte gern  …",
+   "ar": "ادو ان .. , اود ان احصل على…"
+ },
+ {
+   "de": " Prima / Toll / Super! ",
+   "ar": "رائع / فوق العاده / رائع"
+ },
+ {
+   "de": " Das gefällt mir. ",
+   "ar": "هذا يعجبني."
+ },
+ {
+   "de": " Herzlichen Glückwunsch! ",
+   "ar": "الف مبروك."
+ },
+ {
+   "de": " Gesundheit!",
+   "ar": "عافية , صحة!"
+ },
+ {
+   "de": " Willkommen! ",
+   "ar": "اهلآ وسهلآ."
+ },
+ {
+   "de": " Sei ruhig! ",
+   "ar": "كن هادئآ."
+ },
+ {
+   "de": " Schauen Sie mal! / Schau mal! ",
+   "ar": "انظر! انظر الى هذا!"
+ },
+ {
+   "de": " Viel Glück!",
+   "ar": "كل التوفيق!"
+ },
+ {
+   "de": " Zahlen bitte! ",
+   "ar": "الحساب من فضلك!"
+ },
+ {
+   "de": " Bitte schön? ",
+   "ar": "ماذا؟ من فضلك ماذا قلت؟"
+ },
+ {
+   "de": " Ich bin satt. ",
+   "ar": "انا شبعان."
+ },
+ {
+   "de": " Stimmt so.",
+   "ar": "الباقي لك.. (دفع الحساب)"
+ },
+ {
+   "de": " Es tut mir weh.  ",
+   "ar": "يوجد شيء يؤلمني."
+ },
+ {
+   "de": " Mir ist schlecht.  ",
+   "ar": "حالتي سيئة."
+ },
+ {
+   "de": " Du fehlst mir. ",
+   "ar": "انا مشتاق لك."
+ },
+ {
+   "de": " Ich liebe dich.",
+   "ar": "انا احبك."
+ },
+ {
+   "de": "Woher kommen Sie?",
+   "ar": " من اين تاتي حضرتك؟"
+ },
+ {
+   "de": "Russisch und ein bisschen Deutsch. ",
+   "ar": " روسي والقليل من الالمانية"
+ },
+ {
+   "de": "Ich spreche gut Englisch und ein bisschen Deutsch",
+   "ar": "انا اتحدث اللغة الانجليزية بشكل جيد , والقليل من الألمانية.."
+ },
+ {
+   "de": "Ich spreche Arabisch, Deutsch und etwas Englisch.",
+   "ar": "انا اتحدث العربية , الالمانية والقليل من الانجليزية."
+ }
+]
