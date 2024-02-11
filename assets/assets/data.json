@@ -346,5 +346,837 @@
  {
    "de": "Ich spreche Arabisch, Deutsch und etwas Englisch.",
    "ar": "انا اتحدث العربية , الالمانية والقليل من الانجليزية."
- }
+ },
+  {
+    "de": "Infinitiv",
+    "ar": "صيغة المصدر"
+  },
+  {
+    "de": "abfahren",
+    "ar": "يغادر"
+  },
+  {
+    "de": "abfliegen",
+    "ar": "يطير – الركوب بالطائرة"
+  },
+  {
+    "de": "abgeben",
+    "ar": "يعطي – يرسل بعيداً"
+  },
+  {
+    "de": "abholen",
+    "ar": "يمسك – يلتقط"
+  },
+  {
+    "de": "achtgeben",
+    "ar": "يحذر"
+  },
+  {
+    "de": "ändern (sich)",
+    "ar": "يغيّر"
+  },
+  {
+    "de": "anfangen",
+    "ar": "يبدأ"
+  },
+  {
+    "de": "ankommen",
+    "ar": "يصل"
+  },
+  {
+    "de": "anmachen",
+    "ar": "يشغّل"
+  },
+  {
+    "de": "anmelden (sich)",
+    "ar": "يسجل نفسه"
+  },
+  {
+    "de": "anrufen",
+    "ar": "يهاتف – يتصل"
+  },
+  {
+    "de": "antworten",
+    "ar": "يردّ على"
+  },
+  {
+    "de": "anziehen (sich)",
+    "ar": "يرتدي الملابس مثلاً"
+  },
+  {
+    "de": "arbeiten",
+    "ar": "يعمل"
+  },
+  {
+    "de": "ärgern (sich)",
+    "ar": "يستاء"
+  },
+  {
+    "de": "aufhören",
+    "ar": "يتوقف عن فعل شيء ما"
+  },
+  {
+    "de": "aufmachen",
+    "ar": "يفتح"
+  },
+  {
+    "de": "aufpassen",
+    "ar": "يحذر"
+  },
+  {
+    "de": "aufräumen",
+    "ar": "ينظف – يرتب"
+  },
+  {
+    "de": "aufschreiben",
+    "ar": "يكتب"
+  },
+  {
+    "de": "aufstehen",
+    "ar": "يستيقظ"
+  },
+  {
+    "de": "ausfüllen",
+    "ar": "يملىء نموذج"
+  },
+  {
+    "de": "ausgeben",
+    "ar": "يخرج – ينتج شي"
+  },
+  {
+    "de": "auspacken",
+    "ar": "تفريغ حمولة مثلاً"
+  },
+  {
+    "de": "aussehen",
+    "ar": "يبدو مثل"
+  },
+  {
+    "de": "aussteigen",
+    "ar": "يخرج من القطار أو سيارة مثلاً"
+  },
+  {
+    "de": "ausziehen sich",
+    "ar": "يخلع ملابسه"
+  },
+  {
+    "de": "ausziehen",
+    "ar": "يخلع"
+  },
+  {
+    "de": "baden",
+    "ar": "يستحم"
+  },
+  {
+    "de": "bedeuten",
+    "ar": "يعني"
+  },
+  {
+    "de": "beeilen (sich)",
+    "ar": "يستعجل"
+  },
+  {
+    "de": "beginnen",
+    "ar": "يبدأ"
+  },
+  {
+    "de": "behalten",
+    "ar": "يحتفظ"
+  },
+  {
+    "de": "bekommen",
+    "ar": "يحصل على"
+  },
+  {
+    "de": "benutzen",
+    "ar": "يستخدم"
+  },
+  {
+    "de": "beschweren (sich)",
+    "ar": "يتذمر- يشتكي"
+  },
+  {
+    "de": "besichtigen",
+    "ar": "يزور – يُعاين"
+  },
+  {
+    "de": "bestehen",
+    "ar": "يجتاز"
+  },
+  {
+    "de": "bestellen",
+    "ar": "يطلبون"
+  },
+  {
+    "de": "besuchen",
+    "ar": "يزور"
+  },
+  {
+    "de": "bezahlen",
+    "ar": "دفع"
+  },
+  {
+    "de": "bitten",
+    "ar": "يطلب"
+  },
+  {
+    "de": "bleiben",
+    "ar": "إقامة"
+  },
+  {
+    "de": "bloggen",
+    "ar": "للمدونة"
+  },
+  {
+    "de": "bluten",
+    "ar": "يُدمى- نزف"
+  },
+  {
+    "de": "brauchen",
+    "ar": "يحتاج"
+  },
+  {
+    "de": "bremsen",
+    "ar": "يفرمل"
+  },
+  {
+    "de": "bringen",
+    "ar": "يجلب"
+  },
+  {
+    "de": "buchen",
+    "ar": "يحجز"
+  },
+  {
+    "de": "buchstabieren",
+    "ar": "يهجىء"
+  },
+  {
+    "de": "danken",
+    "ar": "يشكر"
+  },
+  {
+    "de": "dauern",
+    "ar": "يستغرق"
+  },
+  {
+    "de": "denken",
+    "ar": "يعتقد – يفكر"
+  },
+  {
+    "de": "diskutieren",
+    "ar": "يناقش"
+  },
+  {
+    "de": "drucken",
+    "ar": "يضغط"
+  },
+  {
+    "de": "dürfen*",
+    "ar": "يسمح له/"
+  },
+  {
+    "de": "duschen (sich)",
+    "ar": "يستحمّ"
+  },
+  {
+    "de": "einkaufen",
+    "ar": "يشتري"
+  },
+  {
+    "de": "einladen",
+    "ar": "يدعو"
+  },
+  {
+    "de": "einsteigen",
+    "ar": "يصعد"
+  },
+  {
+    "de": "einziehen",
+    "ar": "يلبس"
+  },
+  {
+    "de": "enden",
+    "ar": "يُنهي"
+  },
+  {
+    "de": "entschuldigen",
+    "ar": "يعتذر"
+  },
+  {
+    "de": "erinnern (sich)",
+    "ar": "يتذكر"
+  },
+  {
+    "de": "erklären",
+    "ar": "يشرح"
+  },
+  {
+    "de": "erlauben",
+    "ar": "يسمح"
+  },
+  {
+    "de": "erreichen",
+    "ar": "يصل"
+  },
+  {
+    "de": "erzählen",
+    "ar": "يخبر"
+  },
+  {
+    "de": "essen",
+    "ar": "يأكل"
+  },
+  {
+    "de": "fahren",
+    "ar": "يقود"
+  },
+  {
+    "de": "fallen",
+    "ar": "يقع – يسقط"
+  },
+  {
+    "de": "fehlen",
+    "ar": "يغيب – يخطىء"
+  },
+  {
+    "de": "feiern",
+    "ar": "يحتفل"
+  },
+  {
+    "de": "fernsehen",
+    "ar": "يشاهد التلفاز"
+  },
+  {
+    "de": "finden",
+    "ar": "يجد"
+  },
+  {
+    "de": "fliegen",
+    "ar": "يطير"
+  },
+  {
+    "de": "fragen",
+    "ar": "يسأل"
+  },
+  {
+    "de": "freuen (sich)",
+    "ar": "يُسعد نفسه"
+  },
+  {
+    "de": "frühstücken",
+    "ar": "تناول الفطور"
+  },
+  {
+    "de": "fühlen (sich)",
+    "ar": "يشعر"
+  },
+  {
+    "de": "geben",
+    "ar": "يعطى"
+  },
+  {
+    "de": "gefallen",
+    "ar": "يُعجب"
+  },
+  {
+    "de": "gehen",
+    "ar": "يذهب – يتمشى"
+  },
+  {
+    "de": "gehören",
+    "ar": "ينتمي الى"
+  },
+  {
+    "de": "gewinnen",
+    "ar": "يفوز"
+  },
+  {
+    "de": "glauben",
+    "ar": "يصدق"
+  },
+  {
+    "de": "grillen",
+    "ar": "يشوي"
+  },
+  {
+    "de": "haben*",
+    "ar": "فعل الملكية"
+  },
+  {
+    "de": "halten (sich)",
+    "ar": "يعلّق – يمسك ب"
+  },
+  {
+    "de": "hängen",
+    "ar": "يشنق – يعلّق -يتعلق ب"
+  },
+  {
+    "de": "hängen",
+    "ar": "يشنق – يعلّق -يتعلق ب"
+  },
+  {
+    "de": "heiraten",
+    "ar": "يتزوج"
+  },
+  {
+    "de": "heißen",
+    "ar": "يسمى"
+  },
+  {
+    "de": "helfen",
+    "ar": "يساعد"
+  },
+  {
+    "de": "holen",
+    "ar": "يجلب – يحضر"
+  },
+  {
+    "de": "hören",
+    "ar": "يستمع الى"
+  },
+  {
+    "de": "interessieren (sich)",
+    "ar": "يهتم بـ"
+  },
+  {
+    "de": "kaufen",
+    "ar": "يشتري"
+  },
+  {
+    "de": "kennen",
+    "ar": "يعرف"
+  },
+  {
+    "de": "kennenlernen",
+    "ar": "يتعرف على"
+  },
+  {
+    "de": "klopfen",
+    "ar": "يطرق – ينبض"
+  },
+  {
+    "de": "kochen",
+    "ar": "يطبخ"
+  },
+  {
+    "de": "kommen",
+    "ar": "يأتي"
+  },
+  {
+    "de": "können*",
+    "ar": "يقدر – يستطيع"
+  },
+  {
+    "de": "korrigieren",
+    "ar": "يصحح"
+  },
+  {
+    "de": "kosten",
+    "ar": "يكلّف"
+  },
+  {
+    "de": "kümmern (sich)",
+    "ar": "يعتني بـ"
+  },
+  {
+    "de": "lachen",
+    "ar": "يضحك"
+  },
+  {
+    "de": "lassen",
+    "ar": "يدع"
+  },
+  {
+    "de": "laufen",
+    "ar": "يمشي"
+  },
+  {
+    "de": "leben",
+    "ar": "يعيش"
+  },
+  {
+    "de": "legen",
+    "ar": "يبسط"
+  },
+  {
+    "de": "leihen",
+    "ar": "يقرض"
+  },
+  {
+    "de": "lernen",
+    "ar": "يتعلم"
+  },
+  {
+    "de": "lesen",
+    "ar": "يقرأ"
+  },
+  {
+    "de": "liefern",
+    "ar": "يوصّل"
+  },
+  {
+    "de": "liegen",
+    "ar": "يستلقي"
+  },
+  {
+    "de": "lösen",
+    "ar": "يحلّ – يحفز"
+  },
+  {
+    "de": "lügen",
+    "ar": "يكذب"
+  },
+  {
+    "de": "machen",
+    "ar": "يفعل"
+  },
+  {
+    "de": "meinen",
+    "ar": "يرى من وجهة نظهره"
+  },
+  {
+    "de": "merken (sich)",
+    "ar": "يتذكر"
+  },
+  {
+    "de": "mieten",
+    "ar": "يؤجر"
+  },
+  {
+    "de": "mitbringen",
+    "ar": "يُحضر"
+  },
+  {
+    "de": "mitkommen",
+    "ar": "يأتي"
+  },
+  {
+    "de": "mitmachen",
+    "ar": "يشارك"
+  },
+  {
+    "de": "mitnehmen",
+    "ar": "يأخذ معه"
+  },
+  {
+    "de": "möchten*",
+    "ar": "يود"
+  },
+  {
+    "de": "mögen*",
+    "ar": "يحب – يعجب"
+  },
+  {
+    "de": "müssen*",
+    "ar": "يجب"
+  },
+  {
+    "de": "nehmen",
+    "ar": "يأخذ"
+  },
+  {
+    "de": "öffnen",
+    "ar": "يفتح"
+  },
+  {
+    "de": "parken",
+    "ar": "يركن السيارة مثلاً"
+  },
+  {
+    "de": "passen",
+    "ar": "لائق – مناسب لـ"
+  },
+  {
+    "de": "probieren",
+    "ar": "يحاول"
+  },
+  {
+    "de": "putzen",
+    "ar": "ينظف"
+  },
+  {
+    "de": "rauchen",
+    "ar": "يدخن"
+  },
+  {
+    "de": "regnen",
+    "ar": "تمطر"
+  },
+  {
+    "de": "reisen",
+    "ar": "يسافر"
+  },
+  {
+    "de": "renovieren",
+    "ar": "يجدد"
+  },
+  {
+    "de": "reparieren",
+    "ar": "يصلّح"
+  },
+  {
+    "de": "reservieren",
+    "ar": "يحجز"
+  },
+  {
+    "de": "riechen",
+    "ar": "يشم"
+  },
+  {
+    "de": "sagen",
+    "ar": "يقول"
+  },
+  {
+    "de": "sammeln",
+    "ar": "يجّمع"
+  },
+  {
+    "de": "scheinen",
+    "ar": "يبدو انه"
+  },
+  {
+    "de": "schenken",
+    "ar": "يعطى"
+  },
+  {
+    "de": "schicken",
+    "ar": "يرسل"
+  },
+  {
+    "de": "schlafen",
+    "ar": "ينام"
+  },
+  {
+    "de": "schließen",
+    "ar": "يغلق"
+  },
+  {
+    "de": "schmecken",
+    "ar": "يستطعم المذاق"
+  },
+  {
+    "de": "schneiden (sich)",
+    "ar": "يقطع –"
+  },
+  {
+    "de": "schneien",
+    "ar": "تثلج"
+  },
+  {
+    "de": "schreiben",
+    "ar": "يكتب"
+  },
+  {
+    "de": "schwimmen",
+    "ar": "يسبح"
+  },
+  {
+    "de": "sehen",
+    "ar": "ينظر"
+  },
+  {
+    "de": "sein*",
+    "ar": "فعل الكون"
+  },
+  {
+    "de": "singen",
+    "ar": "يغني"
+  },
+  {
+    "de": "sitzen",
+    "ar": "يجلس"
+  },
+  {
+    "de": "sollen*",
+    "ar": "ينبغى*"
+  },
+  {
+    "de": "spazieren gehen",
+    "ar": "يذهب للتمشي"
+  },
+  {
+    "de": "speichern",
+    "ar": "يحفظ"
+  },
+  {
+    "de": "spielen",
+    "ar": "يلعب"
+  },
+  {
+    "de": "sprechen",
+    "ar": "يتحدث"
+  },
+  {
+    "de": "spülen",
+    "ar": "يقوم بالغسيل"
+  },
+  {
+    "de": "stattfinden",
+    "ar": "يستبدل"
+  },
+  {
+    "de": "stecken",
+    "ar": "يعلق – عالق"
+  },
+  {
+    "de": "stehen",
+    "ar": "يقف"
+  },
+  {
+    "de": "stehen bleiben",
+    "ar": "توقف"
+  },
+  {
+    "de": "stellen",
+    "ar": "يضع"
+  },
+  {
+    "de": "sterben",
+    "ar": "يموت"
+  },
+  {
+    "de": "stimmen",
+    "ar": "يصوت – يؤكد"
+  },
+  {
+    "de": "stören",
+    "ar": "يزعج"
+  },
+  {
+    "de": "streiten (sich)",
+    "ar": "يتشاجر"
+  },
+  {
+    "de": "studieren",
+    "ar": "يدرس"
+  },
+  {
+    "de": "suchen",
+    "ar": "يبحث"
+  },
+  {
+    "de": "tanken",
+    "ar": "يزود بالوقود"
+  },
+  {
+    "de": "tanzen",
+    "ar": "يرقص"
+  },
+  {
+    "de": "tauschen",
+    "ar": "يخدع"
+  },
+  {
+    "de": "teilnehmen",
+    "ar": "يشارك"
+  },
+  {
+    "de": "telefonieren",
+    "ar": "يهاتف, يتكلم مع"
+  },
+  {
+    "de": "tragen",
+    "ar": "يلبس"
+  },
+  {
+    "de": "treffen (sich)",
+    "ar": "يقابل"
+  },
+  {
+    "de": "trinken",
+    "ar": "يشرب"
+  },
+  {
+    "de": "tun",
+    "ar": "يفعل"
+  },
+  {
+    "de": "übernachten",
+    "ar": "ينام ليلاً"
+  },
+  {
+    "de": "übersetzen",
+    "ar": "يترجم"
+  },
+  {
+    "de": "überweisen",
+    "ar": "ينقل – يحول الاموال"
+  },
+  {
+    "de": "umsteigen",
+    "ar": "يخرج – ينزل من السيارة مثلاً"
+  },
+  {
+    "de": "umziehen",
+    "ar": "ينقل مكان سكنه"
+  },
+  {
+    "de": "umziehen (sich)",
+    "ar": "ينتقل"
+  },
+  {
+    "de": "unterhalten (sich)",
+    "ar": "يتعارف على"
+  },
+  {
+    "de": "unternehmen",
+    "ar": "يشترك – شركه – يشارك"
+  },
+  {
+    "de": "unterschreiben",
+    "ar": "يوقع"
+  },
+  {
+    "de": "untersuchen",
+    "ar": "يفحص"
+  },
+  {
+    "de": "verdienen",
+    "ar": "يكسب المال"
+  },
+  {
+    "de": "vereinbaren",
+    "ar": "يرتب موعد"
+  },
+  {
+    "de": "vergessen",
+    "ar": "يبنسى"
+  },
+  {
+    "de": "vergleichen",
+    "ar": "يقارن"
+  },
+  {
+    "de": "verkaufen",
+    "ar": "يبيع"
+  },
+  {
+    "de": "verlieren",
+    "ar": "يخسر"
+  },
+  {
+    "de": "verpassen",
+    "ar": "يفتقد"
+  },
+  {
+    "de": "verschieben",
+    "ar": "يؤجل"
+  },
+  {
+    "de": "versprechen (sich)",
+    "ar": "يعد (الوعد )"
+  },
+  {
+    "de": "verstehen (sich)",
+    "ar": "يفهم"
+  },
+  {
+    "de": "versuchen",
+    "ar": "يحاول"
+  },
+  {
+    "de": "vorstellen",
+    "ar": "يتخيل"
+  }
 ]
